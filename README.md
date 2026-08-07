@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner.png" alt="Dua Belgueroui - Data Analyst" width="100%">
+</p> 
+
 # Hi, I'm Dua Belgueroui 👋
 
 ## Data Analyst | SQL • Excel • Power BI
