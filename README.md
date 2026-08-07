@@ -1,6 +1,18 @@
 <p align="center">
   <img src="./assets/banner.png" alt="Dua Belgueroui - Data Analyst" width="100%">
+  
 </p> 
+<p align="center">
+  <a href="https://www.linkedin.com/in/douaa-belgueroui-216a29427/">
+    <img src="https://img.shields.io/badge/LinkedIn-Douaa%20Belgueroui-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:belguerouidouaa@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-555555?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/belguerouidouaa-db">
+    <img src="https://img.shields.io/badge/GitHub-belguerouidouaa--db-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
 
 # Hi, I'm Dua Belgueroui 👋
 
