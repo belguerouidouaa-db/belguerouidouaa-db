@@ -1,20 +1,26 @@
 <p align="center">
   <img src="./assets/banner.png" alt="Dua Belgueroui - Data Analyst" width="100%">
   
-<p align="center">
-  <a href="https://www.linkedin.com/in/douaa-belgueroui-216a29427/" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" width="32" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:belguerouidouaa@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/ffffff" width="32" alt="Email"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/belguerouidouaa-db" target="_blank">
-    <img src="https://cdn.simpleicons.org/github/ffffff" width="32" alt="GitHub"/>
-  </a>
-</p>
-# Hi, I'm Dua Belgueroui 👋
+<div align="center">
+
+<a href="https://www.linkedin.com/in/douaa-belgueroui-216a29427/">
+<img src="https://img.shields.io/badge/LINKEDIN-ffffff?style=flat-square&logo=linkedin&logoColor=000000&labelWidth=100" alt="LinkedIn"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="mailto:belguerouidouaa@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-ffffff?style=flat-square&logo=gmail&logoColor=000000&labelWidth=70" alt="Email"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/belguerouidouaa-db">
+<img src="https://img.shields.io/badge/GITHUB-ffffff?style=flat-square&logo=github&logoColor=000000&labelWidth=90" alt="GitHub"/>
+</a>
+
+</div>
+ Hi, I'm Dua Belgueroui 👋
 
 ## Data Analyst | SQL • Excel • Power BI
 
