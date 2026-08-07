@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Dua Belgueroui - Data Analyst" width="100%">
+  <img src="./assets/banner_.png" alt="Dua Belgueroui - Data Analyst" width="100%">
   
 <div align="center">
 
