@@ -161,4 +161,40 @@ KPI Analysis
 
 <br>
 
+---<br>
+
+## 04 — SELECTED PROJECTS
+
+### FEATURED WORK
+
+<br>
+
+### 01 / ADVENTUREWORKS SALES ANALYSIS
+
+<code>EXCEL</code> · <code>POWER PIVOT</code> · <code>DATA MODELING</code> · <code>PIVOT TABLES</code>
+
+<br><br>
+
+<img src="./assets/adventureworks-dashboard.png" width="100%" alt="AdventureWorks Sales Analysis Dashboard">
+
+<br><br>
+
+An interactive Excel sales analysis exploring revenue, profitability, products, customers, and performance over time.
+
+<br><br>
+
+<b>KEY ANALYSIS</b>
+
+<br><br>
+
+Revenue & Profitability &nbsp;&nbsp;·&nbsp;&nbsp; Product Performance  
+Customer Analysis &nbsp;&nbsp;·&nbsp;&nbsp; Time-Based Trends  
+Profit Margins &nbsp;&nbsp;·&nbsp;&nbsp; KPI Tracking
+
+<br><br>
+
+<a href="YOUR-PROJECT-LINK-HERE"><b>VIEW PROJECT ↗</b></a>
+
+<br><br>
+
 ---
