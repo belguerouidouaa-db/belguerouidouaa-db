@@ -169,7 +169,7 @@ KPI Analysis
 
 <br>
 
-### 01 / ADVENTUREWORKS SALES ANALYSIS
+## 01 / ADVENTUREWORKS SALES ANALYSIS
 
 <code>EXCEL</code> · <code>POWER PIVOT</code> · <code>DATA MODELING</code> · <code>PIVOT TABLES</code>
 
@@ -201,3 +201,66 @@ Profit Margins &nbsp;&nbsp;·&nbsp;&nbsp; KPI Tracking
 <br><br>
 
 ---
+## 02 / INDIA ELECTIONS 2024 ANALYSIS
+
+<code>SQL</code> · <code>MYSQL</code> · <code>CTEs</code> · <code>WINDOW FUNCTIONS</code> · <code>JOINS</code>
+
+<img src="./assets/india-elections-sql.png" width="100%" alt="India Elections 2024 SQL Analysis">
+
+A SQL analysis of the 2024 India election results exploring party and alliance performance, state-level results, constituency outcomes, and candidate performance.
+
+<b>KEY ANALYSIS</b>
+
+Party & Alliance Performance &nbsp;·&nbsp; State-Level Results  
+Constituency Analysis &nbsp;·&nbsp; Candidate Vote Analysis  
+Seat Distribution &nbsp;·&nbsp; Winner & Runner-Up Ranking
+
+<a href="YOUR-PROJECT-LINK"><b>VIEW PROJECT ↗</b></a>
+
+---
+## 03 / INSURANCE RISK & CLAIMS ANALYSIS
+
+<code>POWER BI</code> · <code>DAX</code> · <code>DATA MODELING</code> · <code>FIELD PARAMETERS</code>
+
+<img src="./assets/insurance-dashboard.png" width="100%" alt="Insurance Risk and Claims Analysis Dashboard">
+
+A Power BI analysis exploring insurance policies, claim behavior, customer characteristics, and risk patterns across different policyholder segments.
+
+<b>KEY ANALYSIS</b>
+
+Policy & Claims Overview &nbsp;·&nbsp; Customer Risk Analysis  
+Coverage Zone Analysis &nbsp;·&nbsp; Demographic Analysis  
+Claim Frequency & Amount &nbsp;·&nbsp; Car Usage Analysis
+
+<a href="YOUR-PROJECT-LINK"><b>VIEW PROJECT ↗</b></a>
+
+---
+### MORE PROJECTS
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<b>BUS TRANSPORTATION ANALYSIS</b>
+
+<code>EXCEL</code> · <code>POWER PIVOT</code> · <code>DATA MODELING</code>
+
+Ridership, route performance, utilization, and operational analysis.
+
+<a href="YOUR-PROJECT-LINK"><b>VIEW PROJECT ↗</b></a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<b>AMAZON PRODUCTS SALES ANALYSIS</b>
+
+<code>POWER BI</code> · <code>DAX</code> · <code>TIME INTELLIGENCE</code>
+
+Sales, product performance, reviews, and time-based analysis.
+
+<a href="YOUR-PROJECT-LINK"><b>VIEW PROJECT ↗</b></a>
+
+</td>
+</tr>
+</table>
