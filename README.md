@@ -175,7 +175,11 @@ KPI Analysis
 
 <br><br>
 
-<img src="./assets/adventureworks-dashboard.png" width="100%" alt="AdventureWorks Sales Analysis Dashboard">
+<img src="./assets/Time_analysis_dashboard" width="100%" alt="AdventureWorks Time Analysis Dashboard">
+
+<br>
+
+<img src="./assets/detailed_dashboard_screenshot" width="100%" alt="AdventureWorks Detail Dashboard">
 
 <br><br>
 
