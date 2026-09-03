@@ -264,3 +264,29 @@ Sales, product performance, reviews, and time-based analysis.
 </td>
 </tr>
 </table>
+
+## 05 — LET'S CONNECT
+
+### GET IN TOUCH
+
+I'm always open to connecting, discussing data projects, or exploring new opportunities.
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/douaa-belgueroui-216a29427/">
+    <img src="./assets/linkedin-button.svg" height="42" alt="LinkedIn">
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:belguerouidouaa@gmail.com">
+    <img src="./assets/email-button.svg" height="42" alt="Email">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/belguerouidouaa-db">
+    <img src="./assets/github-button.svg" height="42" alt="GitHub">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <sub>DATA · ANALYSIS · BUSINESS INSIGHTS</sub>
+</p>
