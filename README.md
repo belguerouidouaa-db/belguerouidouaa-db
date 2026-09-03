@@ -12,24 +12,50 @@
 
 <br>
 
-## 02 — ABOUT
-
 ### A LITTLE ABOUT ME
+
+<table>
+<tr>
+<td width="38%" valign="top">
+
+<pre>
+DATA / ANALYSIS              01
+
+                         ●
+                   ●─────╯
+             ●─────╯
+        ●────╯
+   ●────╯
+
+                       █
+             █         █
+        █    █    █    █
+   █    █    █    █    █
+──────────────────────────
+
+EXPLORE  ·  ANALYZE  ·  VISUALIZE
+</pre>
+
+</td>
+<td width="62%" valign="middle">
 
 I'm a Big Data student working toward a career in data analysis.
 
-I mainly work with **SQL, Power BI, Excel, and Python**, and I enjoy the part where raw data starts to actually make sense. Most of my projects are focused on cleaning data, exploring it, building dashboards, and finding insights that could be useful from a business point of view.
+I mainly work with <b>SQL, Power BI, Excel, and Python</b>, and I enjoy the part where raw data starts to actually make sense. Most of my projects are focused on cleaning data, exploring it, building dashboards, and finding insights that could be useful from a business point of view.
 
 Right now, I'm focused on improving my analysis skills through more complete projects and working with more complex datasets.
 
 <br>
 
-`SQL` &nbsp;&nbsp; `POWER BI` &nbsp;&nbsp; `EXCEL` &nbsp;&nbsp; `PYTHON`
+<code>SQL</code> &nbsp; <code>POWER BI</code> &nbsp; <code>EXCEL</code> &nbsp; <code>PYTHON</code>
+
+</td>
+</tr>
+</table>
 
 <br>
 
 ---
-
 ## 🛠️ Skills & Tools
 
 ### 📊 Excel & Data Analysis
