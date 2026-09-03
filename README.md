@@ -173,7 +173,7 @@ KPI Analysis
 
 <code>EXCEL</code> · <code>POWER PIVOT</code> · <code>DATA MODELING</code> · <code>PIVOT TABLES</code>
 
-<br><br>
+
 
 <img src="./assets/Time_analysis_dashboard" width="100%" alt="AdventureWorks Time Analysis Dashboard">
 
@@ -181,24 +181,23 @@ KPI Analysis
 
 <img src="./assets/detailed_dashboard_screenshot" width="100%" alt="AdventureWorks Detail Dashboard">
 
-<br><br>
+
 
 An interactive Excel sales analysis exploring revenue, profitability, products, customers, and performance over time.
 
-<br><br>
+
 
 <b>KEY ANALYSIS</b>
 
-<br><br>
+
 
 Revenue & Profitability &nbsp;&nbsp;·&nbsp;&nbsp; Product Performance  
 Customer Analysis &nbsp;&nbsp;·&nbsp;&nbsp; Time-Based Trends  
 Profit Margins &nbsp;&nbsp;·&nbsp;&nbsp; KPI Tracking
 
-<br><br>
 
-<a href="YOUR-PROJECT-LINK-HERE"><b>VIEW PROJECT ↗</b></a>
 
+<a href="https://github.com/belguerouidouaa-db/AdventureWorks-Sales-Analysis"><b>VIEW PROJECT ↗</b></a>
 <br><br>
 
 ---
