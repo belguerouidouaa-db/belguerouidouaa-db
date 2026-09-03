@@ -1,36 +1,34 @@
 <p align="center">
   <img src="./assets/banner.png" alt="Dua Belgueroui - Data Analyst" width="100%">
-  
+</p>
+
 <div align="center">
-
-<a href="https://www.linkedin.com/in/douaa-belgueroui-216a29427/">
-<img src="https://img.shields.io/badge/LINKEDIN-ffffff?style=flat-square&logo=linkedin&logoColor=000000&labelWidth=100" alt="LinkedIn"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="mailto:belguerouidouaa@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-ffffff?style=flat-square&logo=gmail&logoColor=000000&labelWidth=70" alt="Email"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://github.com/belguerouidouaa-db">
-<img src="https://img.shields.io/badge/GITHUB-ffffff?style=flat-square&logo=github&logoColor=000000&labelWidth=90" alt="GitHub"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/douaa-belgueroui-216a29427/"><img src="https://img.shields.io/badge/LINKEDIN-ffffff?style=flat-square&logo=linkedin&logoColor=000000&labelWidth=100" alt="LinkedIn"></a>
+  &nbsp;&nbsp;
+  <a href="mailto:belguerouidouaa@gmail.com"><img src="https://img.shields.io/badge/EMAIL-ffffff?style=flat-square&logo=gmail&logoColor=000000&labelWidth=70" alt="Email"></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/belguerouidouaa-db"><img src="https://img.shields.io/badge/GITHUB-ffffff?style=flat-square&logo=github&logoColor=000000&labelWidth=90" alt="GitHub"></a>
 </div>
- Hi, I'm Dua Belgueroui 👋
 
-## Data Analyst | SQL • Excel • Power BI
+<br>
 
-## 👩‍💻 About Me
+## 02 — ABOUT
 
-I'm a Big Data student building my career toward Data Analytics, with a particular interest in **Business Analytics** and using data to support better decision-making.
+### A LITTLE ABOUT ME
 
-I enjoy working through the full analytical process — from exploring and transforming data to identifying meaningful patterns and turning findings into **clear, actionable business recommendations**.
+I'm a Big Data student working toward a career in data analysis.
 
-I've been developing hands-on experience through data analysis projects using **SQL, Excel, and Power BI**, including interactive dashboards and business-focused analyses. I'm continuously building my analytical, visualization, and business intelligence skills through practical projects.
+I mainly work with **SQL, Power BI, Excel, and Python**, and I enjoy the part where raw data starts to actually make sense. Most of my projects are focused on cleaning data, exploring it, building dashboards, and finding insights that could be useful from a business point of view.
+
+Right now, I'm focused on improving my analysis skills through more complete projects and working with more complex datasets.
+
+<br>
+
+`SQL` &nbsp;&nbsp; `POWER BI` &nbsp;&nbsp; `EXCEL` &nbsp;&nbsp; `PYTHON`
+
+<br>
+
+---
 
 ## 🛠️ Skills & Tools
 
