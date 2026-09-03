@@ -222,7 +222,7 @@ Seat Distribution &nbsp;·&nbsp; Winner & Runner-Up Ranking
 
 <code>POWER BI</code> · <code>DAX</code> · <code>DATA MODELING</code> · <code>FIELD PARAMETERS</code>
 
-<img src="./assets/insurance-dashboard.png" width="100%" alt="Insurance Risk and Claims Analysis Dashboard">
+<img src="./assets/insurance_dash_powerbi" width="100%" alt="Insurance Risk and Claims Analysis Dashboard">
 
 A Power BI analysis exploring insurance policies, claim behavior, customer characteristics, and risk patterns across different policyholder segments.
 
