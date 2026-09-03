@@ -55,39 +55,110 @@ Right now, I'm focused on improving my analysis skills through more complete pro
 
 <br>
 
+-<br>
+
+## 03 — SKILLS & TOOLS
+
+### MY ANALYTICS TOOLKIT
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### SQL
+
+**Querying & Analysis**
+
+`Complex Queries` · `Joins` · `Subqueries`  
+`CTEs` · `Window Functions` · `Aggregations`  
+`Data Exploration` · `Data Cleaning`
+
+<br>
+
+<sub>QUERY · TRANSFORM · ANALYZE</sub>
+
+</td>
+
+<td width="50%" valign="top">
+
+### POWER BI
+
+**Business Intelligence & Visualization**
+
+`DAX` · `Measures` · `KPIs`  
+`Power Query` · `Data Modeling`  
+`Interactive Dashboards` · `Data Visualization`
+
+<br>
+
+<sub>MODEL · ANALYZE · VISUALIZE</sub>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### EXCEL
+
+**Analysis & Reporting**
+
+`Power Query` · `Pivot Tables`  
+`Data Cleaning` · `Data Analysis`  
+`Dashboards` · `Formulas`
+
+<br>
+
+<sub>CLEAN · ANALYZE · REPORT</sub>
+
+</td>
+
+<td width="50%" valign="top">
+
+### PYTHON
+
+**Data Processing & Analysis**
+
+`Pandas` · `NumPy`  
+`Data Cleaning` · `Data Manipulation`  
+`Exploratory Data Analysis`
+
+<br>
+
+<sub>PROCESS · EXPLORE · ANALYZE</sub>
+
+</td>
+
+</tr>
+</table>
+
+<table>
+<tr>
+<td>
+
+<b>TOOLS & WORKFLOW /</b>
+&nbsp;
+<code>MySQL</code>
+&nbsp;·&nbsp;
+<code>Git</code>
+&nbsp;·&nbsp;
+<code>GitHub</code>
+&nbsp;·&nbsp;
+Data Cleaning
+&nbsp;·&nbsp;
+EDA
+&nbsp;·&nbsp;
+Data Modeling
+&nbsp;·&nbsp;
+KPI Analysis
+
+</td>
+</tr>
+</table>
+
+<br>
+
 ---
-## 🛠️ Skills & Tools
-
-### 📊 Excel & Data Analysis
-- Advanced Excel formulas and functions
-- PivotTables and PivotCharts
-- Power Query & M Code
-- Power Pivot & Data Model
-- DAX & calculated measures
-- Slicers and Timelines
-- KPI development
-- Interactive dashboards
-- Data cleaning and transformation
-- Data visualization
-
-### 🗄️ SQL
-- Data querying and filtering
-- Aggregations and grouping
-- JOINs
-- Subqueries and CTEs
-- CASE statements
-- Window functions
-- Date and string functions
-- Data manipulation and analysis
-
-### 📈 Business Analytics
-- Exploratory data analysis
-- Trend and performance analysis
-- KPI analysis
-- Business-focused insights
-- Translating findings into actionable recommendations
-
-### 🔄 Currently Expanding
-- Power BI
-- Python
-- Additional data analytics and business intelligence tools
