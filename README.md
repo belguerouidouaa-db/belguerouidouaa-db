@@ -218,21 +218,24 @@ Seat Distribution &nbsp;·&nbsp; Winner & Runner-Up Ranking
 <a href="YOUR-PROJECT-LINK"><b>VIEW PROJECT ↗</b></a>
 
 ---
-## 03 / INSURANCE RISK & CLAIMS ANALYSIS
+## 03 / COFFEE SHOP SALES ANALYSIS
 
-<code>POWER BI</code> · <code>DAX</code> · <code>DATA MODELING</code> · <code>FIELD PARAMETERS</code>
+<code>SQL</code> · <code>MYSQL</code> · <code>POWER BI</code> · <code>DAX</code> · <code>DATA MODELING</code>
 
-<img src="./assets/insurance_dash_powerbi" width="100%" alt="Insurance Risk and Claims Analysis Dashboard">
+<img src="./assets/coffee-shop-dashboard.png" width="100%" alt="Coffee Shop Sales Analysis Dashboard">
 
-A Power BI analysis exploring insurance policies, claim behavior, customer characteristics, and risk patterns across different policyholder segments.
+<img src="./assets/coffee-shop-dashboard.png" width="100%" alt="Coffee Shop Sales Analysis Dashboard">
+An end-to-end sales analysis combining SQL and Power BI to explore sales performance, customer purchasing patterns, product performance, store locations, and time-based trends.
 
 <b>KEY ANALYSIS</b>
 
-Policy & Claims Overview &nbsp;·&nbsp; Customer Risk Analysis  
-Coverage Zone Analysis &nbsp;·&nbsp; Demographic Analysis  
-Claim Frequency & Amount &nbsp;·&nbsp; Car Usage Analysis
+Sales & Order Performance &nbsp;·&nbsp; Month-over-Month Growth  
+Store Location Performance &nbsp;·&nbsp; Product & Category Analysis  
+Daily Sales Trends &nbsp;·&nbsp; Day & Hour Analysis
 
 <a href="YOUR-PROJECT-LINK"><b>VIEW PROJECT ↗</b></a>
+
+---
 
 ---
 ### MORE PROJECTS
