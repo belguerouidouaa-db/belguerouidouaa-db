@@ -55,7 +55,7 @@ Right now, I'm focused on improving my analysis skills through more complete pro
 
 <br>
 
--<br>
+<br>
 
 ## 03 — SKILLS & TOOLS
 
@@ -212,7 +212,7 @@ Profit Margins &nbsp;&nbsp;·&nbsp;&nbsp; KPI Tracking
 <sub>SQL / ANALYSIS</sub>
 
 ### WINNER & RUNNER-UP BY CONSTITUENCY
-<img src="./assets/indiaquery.png" width="100%" alt="Daily Sales vs Average SQL Query">
+<img src="./assets/indiaquery.png" width="100%" alt="India Elections Winner and Runner-Up SQL Query">
 
 </td>
 
@@ -222,7 +222,7 @@ Profit Margins &nbsp;&nbsp;·&nbsp;&nbsp; KPI Tracking
 
 ### QUERY RESULT
 
-<img src="./assets/indiaresult.png" width="100%" alt="Daily Sales vs Average Query Result">
+<img src="./assets/indiaresult.png" width="100%" alt="India Elections Winner and Runner-Up SQL Query">
 
 </td>
 </tr>
@@ -281,10 +281,9 @@ product analysis, daily trends, and day/hour patterns.
 </sub>
 
 
-</tr>
-</table>
 
-An end-to-end sales analysis combining SQL and Power BI to explore sales performance, customer purchasing patterns, product performance, store locations, and time-based trends.
+
+An end-to-end sales analysis combining SQL and Power BI to explore sales performance, transaction patterns, product performance, store locations, and time-based trends.
 
 <b>KEY ANALYSIS</b>
 
@@ -319,7 +318,7 @@ Ridership, route performance, utilization, and operational analysis.
 
 <code>POWER BI</code> · <code>DAX</code> ·  <code>DATA MODELING</code> · <code>FIELD PARAMETERS</code>
 
-insurance policies, claims, customer characteristics, and risk patterns across different policyholder segments.
+Insurance policies, claims, customer characteristics, and risk patterns across different policyholder segments.
 
 <a href="YOUR-PROJECT-LINK"><b>VIEW PROJECT ↗</b></a>
 
