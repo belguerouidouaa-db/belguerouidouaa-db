@@ -205,8 +205,29 @@ Profit Margins &nbsp;&nbsp;·&nbsp;&nbsp; KPI Tracking
 
 <code>SQL</code> · <code>MYSQL</code> · <code>CTEs</code> · <code>WINDOW FUNCTIONS</code> · <code>JOINS</code>
 
-<img src="./assets/india-elections-sql.png" width="100%" alt="India Elections 2024 SQL Analysis">
+<table>
+<tr>
+<td width="62%" valign="top">
 
+<sub>SQL / ANALYSIS</sub>
+
+### DAILY SALES VS AVERAGE
+
+<img src="./assets/indiaquery.png" width="100%" alt="Daily Sales vs Average SQL Query">
+
+</td>
+
+<td width="38%" valign="top">
+
+<sub>MYSQL / OUTPUT</sub>
+
+### QUERY RESULT
+
+<img src="./assets/indiaresult.png" width="100%" alt="Daily Sales vs Average Query Result">
+
+</td>
+</tr>
+</table>
 A SQL analysis of the 2024 India election results exploring party and alliance performance, state-level results, constituency outcomes, and candidate performance.
 
 <b>KEY ANALYSIS</b>
@@ -222,9 +243,29 @@ Seat Distribution &nbsp;·&nbsp; Winner & Runner-Up Ranking
 
 <code>SQL</code> · <code>MYSQL</code> · <code>POWER BI</code> · <code>DAX</code> · <code>DATA MODELING</code>
 
-<img src="./assets/coffee-shop-dashboard.png" width="100%" alt="Coffee Shop Sales Analysis Dashboard">
+<table>
+<tr>
+<td width="62%" valign="top">
 
-<img src="./assets/coffee-shop-dashboard.png" width="100%" alt="Coffee Shop Sales Analysis Dashboard">
+<sub>SQL / ANALYSIS</sub>
+
+### DAILY SALES VS AVERAGE
+
+<img src="./assets/cssalesquery.png" width="100%" alt="Daily Sales vs Average SQL Query">
+
+</td>
+
+<td width="38%" valign="top">
+
+<sub>MYSQL / OUTPUT</sub>
+
+### QUERY RESULT
+
+<img src="./assets/cssalesresult.png" width="100%" alt="Daily Sales vs Average Query Result">
+
+</td>
+</tr>
+</table>
 An end-to-end sales analysis combining SQL and Power BI to explore sales performance, customer purchasing patterns, product performance, store locations, and time-based trends.
 
 <b>KEY ANALYSIS</b>
