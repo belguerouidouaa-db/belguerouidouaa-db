@@ -264,6 +264,22 @@ Seat Distribution &nbsp;·&nbsp; Winner & Runner-Up Ranking
 <img src="./assets/cssalesresult.png" width="100%" alt="Daily Sales vs Average Query Result">
 
 </td>
+
+<br>
+
+<sub>POWER BI / DASHBOARD</sub>
+
+### COFFEE SHOP SALES DASHBOARD
+
+<img src="./assets/cssales_dash_powerbi.png" width="100%" alt="Coffee Shop Sales Power BI Dashboard">
+
+<sub>
+Interactive Power BI dashboard covering sales performance, MoM growth, store performance,
+product analysis, daily trends, and day/hour patterns.
+  
+</sub>
+
+
 </tr>
 </table>
 An end-to-end sales analysis combining SQL and Power BI to explore sales performance, customer purchasing patterns, product performance, store locations, and time-based trends.
