@@ -161,7 +161,7 @@ KPI Analysis
 
 <br>
 
----<br>
+<br>
 
 ## 04 — SELECTED PROJECTS
 
@@ -222,7 +222,7 @@ Profit Margins &nbsp;&nbsp;·&nbsp;&nbsp; KPI Tracking
 
 ### QUERY RESULT
 
-<img src="./assets/indiaresult.png" width="100%" alt="India Elections Winner and Runner-Up SQL Query">
+<img src="./assets/indiaresult.png" width="100%" alt="India Elections Winner and Runner-Up SQL Result">
 
 </td>
 </tr>
@@ -274,11 +274,7 @@ Seat Distribution &nbsp;·&nbsp; Winner & Runner-Up Ranking
 
 <img src="./assets/cssales_dash_powerbi.png" width="100%" alt="Coffee Shop Sales Power BI Dashboard">
 
-<sub>
-Interactive Power BI dashboard covering sales performance, MoM growth, store performance,
-product analysis, daily trends, and day/hour patterns.
-
-</sub>
+<sub>Interactive Power BI dashboard covering sales performance, MoM growth, store performance, product analysis, daily trends, and day/hour patterns.</sub>
 
 
 
@@ -326,6 +322,9 @@ Insurance policies, claims, customer characteristics, and risk patterns across d
 </tr>
 </table>
 
+<br>
+
+---
 ## 05 — LET'S CONNECT
 
 ### GET IN TOUCH
