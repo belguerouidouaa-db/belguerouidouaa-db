@@ -313,11 +313,11 @@ Ridership, route performance, utilization, and operational analysis.
 
 <td width="50%" valign="top">
 
-<b>AMAZON PRODUCTS SALES ANALYSIS</b>
+<b> INSURANCE RISK & CLAIMS ANALYSIS </b>
 
-<code>POWER BI</code> · <code>DAX</code> · <code>TIME INTELLIGENCE</code>
+<code>POWER BI</code> · <code>DAX</code> ·  <code>DATA MODELING</code> · <code>FIELD PARAMETERS</code>
 
-Sales, product performance, reviews, and time-based analysis.
+insurance policies, claims, customer characteristics, and risk patterns across different policyholder segments.
 
 <a href="YOUR-PROJECT-LINK"><b>VIEW PROJECT ↗</b></a>
 
