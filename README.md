@@ -211,8 +211,7 @@ Profit Margins &nbsp;&nbsp;·&nbsp;&nbsp; KPI Tracking
 
 <sub>SQL / ANALYSIS</sub>
 
-### DAILY SALES VS AVERAGE
-
+### WINNER & RUNNER-UP BY CONSTITUENCY
 <img src="./assets/indiaquery.png" width="100%" alt="Daily Sales vs Average SQL Query">
 
 </td>
@@ -264,6 +263,8 @@ Seat Distribution &nbsp;·&nbsp; Winner & Runner-Up Ranking
 <img src="./assets/cssalesresult.png" width="100%" alt="Daily Sales vs Average Query Result">
 
 </td>
+</tr>
+</table>
 
 <br>
 
@@ -276,12 +277,13 @@ Seat Distribution &nbsp;·&nbsp; Winner & Runner-Up Ranking
 <sub>
 Interactive Power BI dashboard covering sales performance, MoM growth, store performance,
 product analysis, daily trends, and day/hour patterns.
-  
+
 </sub>
 
 
 </tr>
 </table>
+
 An end-to-end sales analysis combining SQL and Power BI to explore sales performance, customer purchasing patterns, product performance, store locations, and time-based trends.
 
 <b>KEY ANALYSIS</b>
@@ -294,7 +296,7 @@ Daily Sales Trends &nbsp;·&nbsp; Day & Hour Analysis
 
 ---
 
----
+
 ### MORE PROJECTS
 
 <table>
