@@ -235,7 +235,7 @@ Party & Alliance Performance &nbsp;·&nbsp; State-Level Results
 Constituency Analysis &nbsp;·&nbsp; Candidate Vote Analysis  
 Seat Distribution &nbsp;·&nbsp; Winner & Runner-Up Ranking
 
-<a href="YOUR-PROJECT-LINK"><b>VIEW PROJECT ↗</b></a>
+<a href="https://github.com/belguerouidouaa-db/India-Elections-2024-SQL-Analysis"><b>VIEW PROJECT ↗</b></a>
 
 ---
 ## 03 / COFFEE SHOP SALES ANALYSIS
