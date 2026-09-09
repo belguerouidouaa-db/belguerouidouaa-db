@@ -287,7 +287,7 @@ Sales & Order Performance &nbsp;·&nbsp; Month-over-Month Growth
 Store Location Performance &nbsp;·&nbsp; Product & Category Analysis  
 Daily Sales Trends &nbsp;·&nbsp; Day & Hour Analysis
 
-<a href="YOUR-PROJECT-LINK"><b>VIEW PROJECT ↗</b></a>
+<a href="https://github.com/belguerouidouaa-db/Coffee-Shop-Sales-Analysis/tree/main"><b>VIEW PROJECT ↗</b></a>
 
 ---
 
