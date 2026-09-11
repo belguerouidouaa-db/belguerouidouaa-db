@@ -197,7 +197,7 @@ Profit Margins &nbsp;&nbsp;·&nbsp;&nbsp; KPI Tracking
 
 
 
-<a href="https://github.com/belguerouidouaa-db/AdventureWorks-Sales-Analysis"><b>VIEW PROJECT ↗</b></a>
+<a href="https://github.com/belguerouidouaa-db/AdventureWorks-Sales-Analysis"> <img src="assets/view-project.png" alt="View Project" width="220"></a>
 <br><br>
 
 ---
@@ -235,7 +235,7 @@ Party & Alliance Performance &nbsp;·&nbsp; State-Level Results
 Constituency Analysis &nbsp;·&nbsp; Candidate Vote Analysis  
 Seat Distribution &nbsp;·&nbsp; Winner & Runner-Up Ranking
 
-<a href="https://github.com/belguerouidouaa-db/India-Elections-2024-SQL-Analysis"><b>VIEW PROJECT ↗</b></a>
+<a href="https://github.com/belguerouidouaa-db/India-Elections-2024-SQL-Analysis"> <img src="assets/view-project.png" alt="View Project" width="220"></a>
 
 ---
 ## 03 / COFFEE SHOP SALES ANALYSIS
@@ -287,7 +287,7 @@ Sales & Order Performance &nbsp;·&nbsp; Month-over-Month Growth
 Store Location Performance &nbsp;·&nbsp; Product & Category Analysis  
 Daily Sales Trends &nbsp;·&nbsp; Day & Hour Analysis
 
-<a href="https://github.com/belguerouidouaa-db/Coffee-Shop-Sales-Analysis/tree/main"><b>VIEW PROJECT ↗</b></a>
+<a href="https://github.com/belguerouidouaa-db/Coffee-Shop-Sales-Analysis/tree/main"> <img src="assets/view-project.png" alt="View Project" width="220"></a>
 
 ---
 
@@ -304,7 +304,7 @@ Daily Sales Trends &nbsp;·&nbsp; Day & Hour Analysis
 
 Ridership, route performance, utilization, and operational analysis.
 
-<a href="https://github.com/belguerouidouaa-db/Bus-Transportation-Analysis"><b>VIEW PROJECT ↗</b></a>
+<a href="https://github.com/belguerouidouaa-db/Bus-Transportation-Analysis"> <img src="assets/view-project.png" alt="View Project" width="220"></a>
 
 </td>
 
@@ -316,7 +316,7 @@ Ridership, route performance, utilization, and operational analysis.
 
 Insurance policies, claims, customer characteristics, and risk patterns across different policyholder segments.
 
-<a href="https://github.com/belguerouidouaa-db/Insurance-Risk-Claims-Analysis/tree/main"><b>VIEW PROJECT ↗</b></a>
+<a href="https://github.com/belguerouidouaa-db/Insurance-Risk-Claims-Analysis/tree/main"> <img src="assets/view-project.png" alt="View Project" width="220"></a>
 
 </td>
 </tr>
