@@ -316,7 +316,7 @@ Ridership, route performance, utilization, and operational analysis.
 
 Insurance policies, claims, customer characteristics, and risk patterns across different policyholder segments.
 
-<a href="YOUR-PROJECT-LINK"><b>VIEW PROJECT ↗</b></a>
+<a href="https://github.com/belguerouidouaa-db/Insurance-Risk-Claims-Analysis/tree/main"><b>VIEW PROJECT ↗</b></a>
 
 </td>
 </tr>
