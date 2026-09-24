@@ -169,7 +169,35 @@ KPI Analysis
 
 <br>
 
-## 01 / ADVENTUREWORKS SALES ANALYSIS
+## 01 / OLIST BRAZILIAN E-COMMERCE ANALYSIS
+
+<code>POWER BI</code> · <code>POWER QUERY</code> · <code>DAX</code> · <code>DATA MODELING</code> · <code>BUSINESS ANALYTICS</code>
+
+**FEATURED PROJECT — FOUR-PAGE BUSINESS INTELLIGENCE REPORT**
+
+An end-to-end analysis of a Brazilian e-commerce marketplace, connecting **sales performance, product drivers, customer and payment behavior, and delivery outcomes**. Built on a multi-table data model, with interactive visualizations, dynamic measures, and a detailed analytical case study.
+
+**PROJECT HIGHLIGHTS**
+
+- **Sales & demand:** R$6.16M in sales and 45.10K orders in the selected 2017 view, with monthly trends and weekday/hourly demand analysis.
+- **Product performance:** Category contribution, Pareto analysis, volume versus average selling price, and month-over-month momentum.
+- **Customers & payments:** New versus returning orders, geographic concentration, payment methods, and installment behavior.
+- **Delivery & reviews:** Late-delivery rates, fulfillment stages, geographic differences, and review scores by delay severity.
+
+**TECHNICAL FOCUS**
+
+Multi-Table Modeling &nbsp;·&nbsp; Data Cleaning & Validation &nbsp;·&nbsp; DAX & Time Intelligence  
+Field Parameters &nbsp;·&nbsp; Custom Tooltips &nbsp;·&nbsp; Interactive Reporting
+
+<a href="https://github.com/belguerouidouaa-db/Olist-Ecommerce-Analysis"><img src="assets/view-project.png" alt="View Olist Project" width="220"></a>
+&nbsp;
+<a href="https://github.com/belguerouidouaa-db/Olist-Ecommerce-Analysis/releases/download/v1.0.0/Olist-Ecommerce-PowerBI-Dashboard.pbix"><img src="https://img.shields.io/badge/DOWNLOAD-POWER_BI_REPORT-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Download Power BI report"></a>
+
+<br><br>
+
+---
+
+## 02 / ADVENTUREWORKS SALES ANALYSIS
 
 <code>EXCEL</code> · <code>POWER PIVOT</code> · <code>DATA MODELING</code> · <code>PIVOT TABLES</code>
 
@@ -201,7 +229,7 @@ Profit Margins &nbsp;&nbsp;·&nbsp;&nbsp; KPI Tracking
 <br><br>
 
 ---
-## 02 / INDIA ELECTIONS 2024 ANALYSIS
+## 03 / INDIA ELECTIONS 2024 ANALYSIS
 
 <code>SQL</code> · <code>MYSQL</code> · <code>CTEs</code> · <code>WINDOW FUNCTIONS</code> · <code>JOINS</code>
 
@@ -238,7 +266,7 @@ Seat Distribution &nbsp;·&nbsp; Winner & Runner-Up Ranking
 <a href="https://github.com/belguerouidouaa-db/India-Elections-2024-SQL-Analysis"> <img src="assets/view-project.png" alt="View Project" width="220"></a>
 
 ---
-## 03 / COFFEE SHOP SALES ANALYSIS
+## 04 / COFFEE SHOP SALES ANALYSIS
 
 <code>SQL</code> · <code>MYSQL</code> · <code>POWER BI</code> · <code>DAX</code> · <code>DATA MODELING</code>
 
